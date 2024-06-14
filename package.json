@@ -1,0 +1,28 @@
+{
+  "name": "@fastify/event-emitter",
+  "version": "0.1.0",
+  "description": "About",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:unit && npm run test:typescript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekyGeeky/fastify-event-emitter.git"
+  },
+  "keywords": [
+    "fastify",
+    "event-emitter",
+    "event",
+    "emitter"
+  ],
+  "author": "GeekyGeeky - (x.com/sholaphp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeekyGeeky/fastify-event-emitter/issues"
+  },
+  "homepage": "https://github.com/GeekyGeeky/fastify-event-emitter#readme",
+  "dependencies": {
+    "fastify-plugin": "^4.5.1"
+  }
+}
